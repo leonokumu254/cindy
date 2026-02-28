@@ -44,7 +44,7 @@ export const CONFIG = {
       image: "/5.jpeg" 
     },
     { 
-      text: "To the girl who loves sleeping,is obsessed  with ice cream, and chocolate—but definitely not eating!Aki I'm so lucky to have her in my life. I hope this birthday is as amazing as you are, and it brings you all the happiness and love you deserve.Even though its not a big gift but I hope you like it!", 
+      text: "To the girl who loves sleeping,is obsessed  with ice cream and chocolate—but definitely not eating!Aki I'm so lucky to have you in my life. I hope this birthday brings you all the happiness and love you deserve.Even though its not a big gift but I hope you like it!", 
       image: "/6.jpeg" 
     }
   ],
