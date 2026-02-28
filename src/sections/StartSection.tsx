@@ -22,7 +22,7 @@ export default function StartSection({ onStart }: StartSectionProps) {
             fontFamily: CONFIG.typography.nameFont,
           }}
         >
-          For {CONFIG.nickname}
+          For My love ❤️
         </h1>
         
         <button
