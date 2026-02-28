@@ -1,0 +1,8 @@
+/* Particle Canvas */
+.particle-canvas {
+  position: fixed;
+  inset: 0;
+  pointer-events: auto;
+  z-index: 10;
+  touch-action: none;
+}
