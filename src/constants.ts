@@ -48,5 +48,5 @@ export const CONFIG = {
       image: "/6.jpeg" 
     }
   ],
-  finalWish: "Happy Birthday, Cindy Nkatha! I love you so much.",
+  finalWish: "Happy Birthday, Cindy! I love you so much.",
 };
