@@ -40,7 +40,7 @@ export const CONFIG = {
       image: "/4.jpeg" 
     },
     { 
-      text: "I love how beautiful and understanding you are. Napenda venye unakuanga na utoto kwanza ukibonda 😂. Not in a bad way though.I know you like hearing compliments and sweet stuffs so I'll keep on telling you about how sweet you are. I'm always  comfortable  talking to you.", 
+      text: "I love how beautiful and understanding you are. Napenda venye unakuanga na utoto kwanza ukibonda 😂. Not in a bad way though.I know you like hearing compliments and sweet stuffs so I'll keep on telling you about how sweet you are.", 
       image: "/5.jpeg" 
     },
     { 
